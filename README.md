@@ -21,3 +21,9 @@ A Dashboard helps you see trending across different social Media. Country-wise &
 A system which uses Domain Adaptation (aka Transfer Learning) to help extract answers from archived conversations
 - Research Paper: [https://arxiv.org/abs/1907.00854](https://arxiv.org/abs/1907.00854)
 - Repo: [https://github.com/cvcnetwork/context-experiment](https://github.com/cvcnetwork/context-experiment)
+
+---
+
+## Publications
+- https://becominghuman.ai/seldon-inference-graph-pipelined-model-serving-211c6b095f62
+- https://medium.com/p/cf779ee44ab/edit
