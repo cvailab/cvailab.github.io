@@ -25,5 +25,5 @@ A system which uses Domain Adaptation (aka Transfer Learning) to help extract an
 ---
 
 ## Publications
-- https://becominghuman.ai/seldon-inference-graph-pipelined-model-serving-211c6b095f62
-- https://medium.com/p/cf779ee44ab/edit
+- [https://becominghuman.ai/seldon-inference-graph-pipelined-model-serving-211c6b095f62](https://becominghuman.ai/seldon-inference-graph-pipelined-model-serving-211c6b095f62)
+- [https://medium.com/p/cf779ee44ab/edit](https://medium.com/p/cf779ee44ab/edit)
